@@ -3,12 +3,7 @@ _Hello World sample_
 # Description
 Practice using GitHub by creating a sample repository. Done for a class assignment. 
 # How to Run Program
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+> Explain here how you would run the program and what files need to be available.
 # Files Used
 - Did you use any datafiles?
 - List filenames
